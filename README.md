@@ -5,9 +5,11 @@ Total length of playlist : 4 hours, 40 minutes
 Total length of playlist : 3 hours, 48 minutes, 49 seconds
 3) selfedu c++ practice https://www.youtube.com/watch?v=I4IawFfKmbw&list=PLA0M1Bcd0w8y_QeedN81EZ-GP_WZpBRrh
 Total length of playlist : 1 hour, 56 minutes, 51 seconds
-4) Тимофей Хирьянов с++ алгоритмы структуры данных https://www.youtube.com/watch?v=MWsfHQaUzI0&list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr
+4) Тимофей Хирьянов с++ ООП https://www.youtube.com/watch?v=-42sZ-1_OyM&list=PLRDzFCPr95fItmofHO4KuGjfGtbQtEj-x
+Total length of playlist : 17 hours, 11 minutes, 22 seconds
+5) Тимофей Хирьянов с++ алгоритмы структуры данных https://www.youtube.com/watch?v=MWsfHQaUzI0&list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr
 Total length of playlist : 2 days, 6 hours, 26 minutes, 48 seconds
-5) selfedu Структуры данных https://www.youtube.com/watch?v=gHLDdM59Di8&list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2
+6) selfedu Структуры данных https://www.youtube.com/watch?v=gHLDdM59Di8&list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2
 Total length of playlist : 6 hours, 21 minutes, 30 seconds
 
 Courses:
