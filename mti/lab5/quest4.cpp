@@ -25,15 +25,15 @@ int main(void) {
 
 void sortArray(uint64_t *arr, size_t size) {
     for (size_t i = 0; i < size; i++) {
-            for (size_t j = 0; j < size; j++) {
-                if (arr[i] < arr[j]) {
-                    uint64_t tmp = arr[i];
-                    arr[i] = arr[j];
-                    arr[j] = tmp;
-                }
+        for (size_t j = 0; j < size; j++) {
+            if (arr[i] < arr[j]) {
+                uint64_t tmp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = tmp;
             }
         }
     }
+}
 
 uint64_t findMinSimpleNumber(uint64_t *arr, size_t size) {
     uint64_t min = std::numeric_limits<uint64_t>::max();
