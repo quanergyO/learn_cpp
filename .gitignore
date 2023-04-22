@@ -1,3 +1,5 @@
 .vscode/*
 ./lab6/executable
 ./lab6/objects
+*.exe
+*.o
