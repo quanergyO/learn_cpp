@@ -13,6 +13,9 @@ public:
 
     void output();
     ComplexNumber operator+ (const ComplexNumber& other);
+    ComplexNumber operator- (const ComplexNumber& other);
+    ComplexNumber operator* (const ComplexNumber& other);
+    ComplexNumber operator/ (const ComplexNumber& other);
 
 private:
     int64_t x;
