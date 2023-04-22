@@ -1,0 +1,14 @@
+lab1: lab1
+
+lab1: lab1_main.o lab1_class.o
+	g++ lab1_main.o lab1_class.o -o lab1
+
+lab1_main.o: lab1_main.cpp
+	g++ -c main.cpp
+
+lab1_class.o: lab1_class.cpp
+	g++ -c lab1_class.cpp
+
+clean:
+	rm -rf *.o lab1
+	
