@@ -1,14 +1,14 @@
-lab1: lab1
+lab1: lab1_o
 
-lab1: lab1_main.o lab1_class.o
-	g++ lab1_main.o lab1_class.o -o lab1
+lab1_o: lab1_main.o lab1_class.o
+	g++ objects/lab1_main.o objects/lab1_class.o -o executable/lab1.exe
 
 lab1_main.o: lab1_main.cpp
-	g++ -c main.cpp
+	g++ -c lab1_main.cpp -o objects/lab1_main.o
 
 lab1_class.o: lab1_class.cpp
-	g++ -c lab1_class.cpp
+	g++ -c lab1_class.cpp -o objects/lab1_class.o
 
 clean:
-	rm -rf *.o lab1
-	
+	rm -rf objects/*.o lab1
+	rm executable/lab1.exe
