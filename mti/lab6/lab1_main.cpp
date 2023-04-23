@@ -1,9 +1,12 @@
 #include "lab1_class.h"
+#include <iostream>
 
 int main(void) {
-    ComplexNumber a(5, 2);
-    ComplexNumber b(3, -4);
-    ComplexNumber sum, sub, div, mul;
+    double x1, y1, x2, y2;
+    std::cin >> x1 >> y1 >> x2 >> y2;
+    ComplexNumber a(x1, y1);
+    ComplexNumber b(x2, y2);
+    ComplexNumber sum, sub, div, mul, sqrtNum;
     sum = a + b;
     sum.output();
     sub = a - b;
@@ -12,6 +15,8 @@ int main(void) {
     mul.output();
     div = a / b;
     div.output();
+    a.sqrtComplexNumber();
+    a.output();
 
     return 0;
 }

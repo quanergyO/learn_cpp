@@ -1,25 +1,25 @@
 #ifndef LAB1_CLASS_H
 #define LAB1_CLASS_H
-#include <cstdint>
 
 class ComplexNumber {
 public:
     ComplexNumber() {}
-    ComplexNumber(int64_t x, int64_t y) {
+    ComplexNumber(double x, double y) {
     this->x = x;
     this->y = y;
 }
     ~ComplexNumber() {}
 
     void output();
+    void sqrtComplexNumber();
     ComplexNumber operator+ (const ComplexNumber& other);
     ComplexNumber operator- (const ComplexNumber& other);
     ComplexNumber operator* (const ComplexNumber& other);
     ComplexNumber operator/ (const ComplexNumber& other);
 
 private:
-    int64_t x;
-    int64_t y;
+    double x;
+    double y;
 };
 
 
