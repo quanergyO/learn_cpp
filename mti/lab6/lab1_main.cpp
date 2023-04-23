@@ -8,10 +8,10 @@ int main(void) {
     sum.output();
     sub = a - b;
     sub.output();
-    div = a / b;
-    div.output();
     mul = a * b;
     mul.output();
+    div = a / b;
+    div.output();
 
     return 0;
 }
