@@ -1,8 +1,8 @@
 Youtube Playlists:
 1) selfedu c++ https://www.youtube.com/watch?v=L6NTIYYOBCE&list=PLA0M1Bcd0w8zHoZcf7IWTM4aQESDSErUs
-Total length of playlist : 4 hours, 40 minutes  +++
+Total length of playlist : 4 hours, 40 minutes  ***Done***
 2) selfedu c++ ООП https://www.youtube.com/watch?v=IH493f9Vo7E&list=PLA0M1Bcd0w8xlChMBBUc9leNoOEfn-Y-G
-Total length of playlist : 3 hours, 48 minutes, 49 seconds  +++
+Total length of playlist : 3 hours, 48 minutes, 49 seconds  ***Done***
 3) Тимофей Хирьянов с++ ООП https://www.youtube.com/watch?v=-42sZ-1_OyM&list=PLRDzFCPr95fItmofHO4KuGjfGtbQtEj-x
 Total length of playlist : 17 hours, 11 minutes, 22 seconds
 4) Тимофей Хирьянов с++ алгоритмы структуры данных https://www.youtube.com/watch?v=MWsfHQaUzI0&list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr
