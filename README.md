@@ -18,6 +18,7 @@ Courses:
 5) https://stepik.org/course/3693/info
 6) https://stepik.org/course/149/info
 7) https://stepik.org/course/134212/info
+8) https://academy.yandex.ru/handbook/cpp
 
 Books:
 1) Роберт Лафоре. Объектно-ориентированное программирование в С++
